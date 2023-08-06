@@ -1,0 +1,12 @@
+2023-08-06 05:37:49.130294 - Initialized conversion of CBT624
+2023-08-06 05:37:49.191158 - Received CBT.V505.FILE624.PDS from FILE624.XMI 
+2023-08-06 05:37:49.193243 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE624.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:37:49.194118 - Found $DOC.txt (text/plain) in CBT.V505.FILE624.PDS, moved to PDS/$DOC
+2023-08-06 05:37:49.198669 - Found $LOADLIB.xmi (application/xmit) in CBT.V505.FILE624.PDS
+2023-08-06 05:37:49.204095   - Received RECFM=U data, stored XMIT file as CBT624/$LOADLIB.xmi
+2023-08-06 05:37:49.204981 - Found $README.txt (text/plain) in CBT.V505.FILE624.PDS, moved to PDS/$README
+2023-08-06 05:37:49.205794 - Found @FILE624.txt (text/plain) in CBT.V505.FILE624.PDS, moved to PDS/@FILE624
+2023-08-06 05:37:49.206612 - Found ASMUCB.jcl (text/plain) in CBT.V505.FILE624.PDS, moved to PDS/ASMUCB
+2023-08-06 05:37:49.207412 - Found FIND.rexx (text/plain) in CBT.V505.FILE624.PDS, moved to PDS/FIND
+2023-08-06 05:37:49.208204 - Found TSOUCB.txt (text/plain) in CBT.V505.FILE624.PDS, moved to PDS/TSOUCB
+2023-08-06 05:37:49.209039 - Found TSOUCB$.jcl (text/plain) in CBT.V505.FILE624.PDS, moved to PDS/TSOUCB$
