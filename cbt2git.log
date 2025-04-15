@@ -1,12 +1,12 @@
-2025-04-13 21:18:01.289528 - Received CBT.V508.FILE624.PDS from FILE624.XMI 
-2025-04-13 21:18:01.290630 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/$$$#DATE
-2025-04-13 21:18:01.290726 - Found $DOC.txt (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/$DOC
-2025-04-13 21:18:01.290807 - Found $LOADLIB.xmi (application/xmit) in CBT.V508.FILE624.PDS, moved to PDS/$LOADLIB.xmi
-2025-04-13 21:18:01.298091 - Received SBGOLOB.TSOUCB.LOAD from $LOADLIB.xmi 
-2025-04-13 21:18:01.298563 - Found TSOUCB.bin (application/octet-stream) in SBGOLOB.TSOUCB.LOAD, moved to $LOADLIB/TSOUCB
-2025-04-13 21:18:01.298769 - Found $README.txt (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/$README
-2025-04-13 21:18:01.298838 - Found @FILE624.txt (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/@FILE624
-2025-04-13 21:18:01.298913 - Found ASMUCB.jcl (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/ASMUCB
-2025-04-13 21:18:01.298987 - Found FIND.rexx (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/FIND
-2025-04-13 21:18:01.299052 - Found TSOUCB.txt (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/TSOUCB
-2025-04-13 21:18:01.299116 - Found TSOUCB$.jcl (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/TSOUCB$
+2025-04-15 04:01:12.397231 - Received CBT.V508.FILE624.PDS from FILE624.XMI 
+2025-04-15 04:01:12.398533 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/$$$#DATE
+2025-04-15 04:01:12.401147 - Found $DOC.txt (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/$DOC
+2025-04-15 04:01:12.401424 - Found $LOADLIB.xmi (application/xmit) in CBT.V508.FILE624.PDS, moved to PDS/$LOADLIB.xmi
+2025-04-15 04:01:12.407108 - Received SBGOLOB.TSOUCB.LOAD from $LOADLIB.xmi 
+2025-04-15 04:01:12.407720 - Found TSOUCB.bin (application/octet-stream) in SBGOLOB.TSOUCB.LOAD, moved to $LOADLIB/TSOUCB
+2025-04-15 04:01:12.408022 - Found $README.txt (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/$README
+2025-04-15 04:01:12.408253 - Found @FILE624.txt (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/@FILE624
+2025-04-15 04:01:12.408476 - Found ASMUCB.jcl (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/ASMUCB
+2025-04-15 04:01:12.408769 - Found FIND.rexx (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/FIND
+2025-04-15 04:01:12.408968 - Found TSOUCB.txt (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/TSOUCB
+2025-04-15 04:01:12.409174 - Found TSOUCB$.jcl (text/plain) in CBT.V508.FILE624.PDS, moved to PDS/TSOUCB$
